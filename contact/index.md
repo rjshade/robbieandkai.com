@@ -3,4 +3,7 @@ layout: default
 title: contact
 ---
 
-[email us!](hello@robbieandkai.com)
+email: [hello@robbieandkai.com](mailto:hello@robbieandkai.com)
+
+phone: +44 7939 970283 (Robbie)
+
