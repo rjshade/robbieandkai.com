@@ -3,4 +3,4 @@ layout: default
 title: contact
 ---
 
-Email: hello@robbieandkai.com
+[email us!](hello@robbieandkai.com)

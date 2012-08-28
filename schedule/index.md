@@ -3,4 +3,4 @@ layout: default
 title: schedule
 ---
 
-<h1>Saturday 6th July, 2013</h1>
+*Saturday 6th July, 2013*

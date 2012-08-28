@@ -3,8 +3,4 @@ layout: default
 title: rsvp
 ---
 
-<div class="content_box">
-<p>
 Please come to our wedding.
-</p>
-</div>

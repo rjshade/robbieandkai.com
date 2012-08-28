@@ -3,8 +3,4 @@ layout: default
 title: directions
 ---
 
-<div class="content_box">
-<p>
 Try using Google Maps ha ha ha
-</p>
-</div>
