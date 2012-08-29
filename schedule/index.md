@@ -18,8 +18,8 @@ Wedding day
 
 10:00 ----------- Breakfast for those who lodge in Coul House Hotel
 
-*                                                   *                                                     *
-                                                    *                                                     
+*
+
 13:30 ----------- Ceremony
 
 14:00 ----------- Photography
