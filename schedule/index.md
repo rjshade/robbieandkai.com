@@ -3,18 +3,18 @@ layout: default
 title: schedule
 ---
 
-##*Friday 5th July, 2013*
+*Friday 5th July, 2013*
 
-####The day before wedding
+• The day before wedding
 
 For those of you who would like to join us for dinner before our big day, there will be a BBQ set up in the hotel.
 The cost £20 per person and RSVP (Link for the page)
 
 ****************************************************************************
 
-##*Saturday 6th July, 2013* 
+*Saturday 6th July, 2013* 
 
-####Wedding day
+• Wedding day
 
 For those guests staying in the hotel, breakfast will be served at 10 am
 
