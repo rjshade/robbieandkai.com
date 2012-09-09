@@ -10,6 +10,8 @@ title: schedule
 For those of you who would like to join us for dinner before our big day, there will be a BBQ set up in the hotel.
 The cost £20 per person and RSVP (Link for the page)
 
+****************************************************************************
+
 ##*Saturday 6th July, 2013* 
 
 ####Wedding day
