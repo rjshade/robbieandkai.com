@@ -5,6 +5,8 @@ title: directions
 
 *Address: Coul House Hotel, Contin, Ross & Cromarty, Scotland IV14 9ES*
 
+*************************************************************************************
+
 #How long it will take you from .....
 
 • Inverness airport - 45 min/ 26 miles
@@ -74,9 +76,10 @@ Once in Contin, the entrance to our driveway is the third right (approximately 2
 
 The hotel is located up the hill at the end of the half-mile gravel driveway. Please do not be put off by the potholes and ruts that appear occasionally throughout the year after heavy rain. Unfortunately, the driveway is a constant source of maintenance, which we do our best to keep up with.
 
-=============
-Accommodation
-=============
+***************************************************************************************
+
+#Accommodation
+
 
 The most convenient place to stay is Coul House Hotel itself. We have negotiated with the hotel and for both Friday and Saturday night we will have the exclusive right to use the entire place.
 
