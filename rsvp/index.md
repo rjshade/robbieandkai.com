@@ -13,7 +13,7 @@ Full Name of the +1 or N/A
 
 Special diet requirement in an additional box for people to comment
 
-When refreshed, return with a comment saying we look forward see you there!
+When refreshed, return with a comment saying RSVP is successful and we look forward seeing them there!
 
 
 
