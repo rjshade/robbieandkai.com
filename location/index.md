@@ -70,5 +70,7 @@ Once in Contin, the entrance to our driveway is the third right (approximately 2
 
 The hotel is located up the hill at the end of the half-mile gravel driveway. Please do not be put off by the potholes and ruts that appear occasionally throughout the year after heavy rain. Unfortunately, the driveway is a constant source of maintenance, which we do our best to keep up with.
 
-
+=============
+Accommodation
+=============
 
