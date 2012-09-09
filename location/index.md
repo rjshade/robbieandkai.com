@@ -3,6 +3,8 @@ layout: default
 title: directions
 ---
 
+*Address: Coul House Hotel, Contin, Ross & Cromarty, Scotland IV14 9ES*
+
 #How long it will take you from .....
 
 • Inverness airport - 45 min/ 26 miles
@@ -88,6 +90,6 @@ Up to 3 people: £185 (3 rm) or £200 (3 rm)
 
 Up to 4-5 people: £185 (1 rm) or £200 (3 rm)
 
-The easiest way is call the Coul Hotel to make the reservation: +44(0) 1997 421 487 but you can also write to stay@coulhousehotel.com to make a reservation (by mentioning you will be attending our wedding)
+The easiest way is call the Coul Hotel to make the reservation: +44(0) 1997 421 487 but you can also write to stay@coulhousehotel.com to make a reservation (by mentioning you will be attending our wedding).
 
 
