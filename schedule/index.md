@@ -3,7 +3,9 @@ layout: default
 title: schedule
 ---
 
+===========================
 *Friday 5th July, 2013*
+===========================
 
 • The day before wedding
 
