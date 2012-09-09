@@ -90,6 +90,9 @@ Up to 3 people: £185 (3 rm) or £200 (3 rm)
 
 Up to 4-5 people: £185 (1 rm) or £200 (3 rm)
 
-• Call the Coul Hotel (+44(0) 1997 421 487) or write to stay@coulhousehotel.com to make a reservation (Remember to mention that you will be attending our wedding).
+• Call or write to the Coul House Hotel to make a reservation (Remember to mention that you will be attending our wedding).
 
+T: +44(0) 1997 421 487
+
+E: stay@coulhousehotel.com
 
