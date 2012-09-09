@@ -80,7 +80,7 @@ Accommodation
 
 The most convenient place to stay is Coul House Hotel itself. We have negotiated with the hotel and for both Friday and Saturday night we will have the exclusive right to use the entire place.
 
-##Price per Night for the rooms:
+###Price per Night for the rooms:
 
 Single: £90 (2 rm) or £95 (1 rm)
 
