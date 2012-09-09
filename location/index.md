@@ -78,10 +78,14 @@ Accommodation
 
 The most convenient place to stay is Coul House Hotel itself. We have negotiated with the hotel and for both Friday and Saturday night we will have the exclusive right to use the entire place.
 
-Price per Night for the rooms:
+• Price per Night for the rooms:
+
 Single: £90 (2 rm) or £95 (1 rm)
+
 Double: £165 (3 rm), £180 (3 rm), or £185 (1 rm)
+
 Up to 3 people: £185 (3 rm) or £200 (3 rm)
+
 Up to 4-5 people: £185 (1 rm) or £200 (3 rm)
 
 Please call the Coul Hotel to make the reservation: +44(0) 1997 421 487
