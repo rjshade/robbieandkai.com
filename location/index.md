@@ -78,7 +78,7 @@ Accommodation
 
 The most convenient place to stay is Coul House Hotel itself. We have negotiated with the hotel and for both Friday and Saturday night we will have the exclusive right to use the entire place.
 
-• Price per Night for the rooms:
+##Price per Night for the rooms:
 
 Single: £90 (2 rm) or £95 (1 rm)
 
@@ -88,6 +88,6 @@ Up to 3 people: £185 (3 rm) or £200 (3 rm)
 
 Up to 4-5 people: £185 (1 rm) or £200 (3 rm)
 
-Please call the Coul Hotel to make the reservation: +44(0) 1997 421 487
+The easiest way is call the Coul Hotel to make the reservation: +44(0) 1997 421 487 but you can also write to stay@coulhousehotel.com to make a reservation (by mentioning you will be attending our wedding)
 
-We hope to keep everyone in one place to 
+
