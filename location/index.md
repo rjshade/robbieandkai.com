@@ -19,6 +19,8 @@ title: directions
 
 • London - 10 hrs 45 mins/ 580 miles
 
+**********************************************************************
+
 ##Getting here
 
 ###By air
