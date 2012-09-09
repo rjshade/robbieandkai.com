@@ -3,7 +3,7 @@ layout: default
 title: directions
 ---
 
-##How long it will take you from .....
+#How long it will take you from .....
 
 • Inverness airport - 45 min/ 26 miles
 
@@ -21,9 +21,9 @@ title: directions
 
 **********************************************************************
 
-##Getting here
+#Getting here
 
-###By air
+##By air
 • From Dublin - Aer Arann
 
 • From London Gatwick - British Airways
@@ -36,14 +36,14 @@ title: directions
 
 • For travel from across Highlands ans Islands and other travel details visit Inverness Airport website
 
-###By rail
+##By rail
 • Scotrail
 
 • National Rail
 
 Other helpful sites to have a look at include Raileasy and Trainline.
 
-###By bus
+##By bus
 • National Express
 
 • Scottish Citylink
@@ -52,7 +52,7 @@ Other helpful sites to have a look at include Raileasy and Trainline.
 
 • Megabus
  
-###By car (Directions approaching from the south)
+##By car (Directions approaching from the south)
 
 • Hotel postcode for those using GPS is IV14 9ES. 
 
