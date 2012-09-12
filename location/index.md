@@ -5,6 +5,8 @@ title: directions
 
 *Address: Coul House Hotel, Contin, Ross & Cromarty, Scotland IV14 9ES*
 
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;ll=57.55711,-4.310432&amp;spn=0.029354,0.523794&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;ll=57.55711,-4.310432&amp;spn=0.029354,0.523794&amp;source=embed" style="color:#0000FF;text-align:left">Robbie and Kai's wedding map</a> in a larger map</small>
+
 *************************************************************************************
 
 #How long it will take you from .....
