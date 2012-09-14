@@ -7,7 +7,7 @@ title: directions
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;ll=57.55711,-4.310432&amp;spn=0.029354,0.523794&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;ll=57.55711,-4.310432&amp;spn=0.029354,0.523794&amp;source=embed" style="color:#0000FF;text-align:left">Robbie and Kai's wedding map</a> in a larger map</small>
 
-*************************************************************************************
+----
 
 #How long it will take you from .....
 
@@ -25,7 +25,7 @@ title: directions
 
 • London - 10 hrs 45 mins/ 580 miles
 
-**********************************************************************
+----
 
 #Getting here
 
@@ -78,12 +78,13 @@ Once in Contin, the entrance to our driveway is the third right (approximately 2
 
 The hotel is located up the hill at the end of the half-mile gravel driveway. Please do not be put off by the potholes and ruts that appear occasionally throughout the year after heavy rain. Unfortunately, the driveway is a constant source of maintenance, which we do our best to keep up with.
 
-***************************************************************************************
+----
 
 #Accommodation
 
+The most convenient place to stay is Coul House Hotel itself.
 
-The most convenient place to stay is Coul House Hotel itself. We have negotiated with the hotel and for both Friday and Saturday night we will have the exclusive right to use the entire place.
+We have negotiated with the hotel and for both Friday and Saturday night we will have the exclusive right to use the entire place.
 
 ###Price per Night for the rooms:
 
