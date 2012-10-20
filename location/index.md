@@ -3,103 +3,59 @@ layout: default
 title: directions
 ---
 
-* Address: Coul House Hotel, Contin, Ross & Cromarty, Scotland IV14 9ES
-
 <iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=57.585087,-4.476929&amp;spn=0.353352,0.878906&amp;z=10&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=57.585087,-4.476929&amp;spn=0.353352,0.878906&amp;z=10" style="color:#0000FF;text-align:left">Robbie and Kai's wedding map</a> in a larger map</small>
-----
 
-#How long it will take you from .....
-
-* Inverness airport - 45 min/ 26 miles
-
-* Inverness city - 30 mins by car/ 50 mins by bus/ 19 miles
-
-* Perth 2hrs 50 mins/ 130 miles
-
-* Aberdeen 2 hrs 45 mins/ 120 miles
-
-* Glasgow - 3 hrs 45 mins/ 186 miles
-
-* Edinburgh Airport - 3 hrs 30 mins/ 170 miles
-
-* London - 10 hrs 45 mins/ 580 miles
+The wedding will take place in Coul House Hotel, Contin, Scotland. This is approximately 45 minutes drive from Inverness train station or airport. This page gives some information about various ways to get here.
 
 ----
 
 #Getting here
 
-##By air
-* From Dublin - Aer Arann
+## Air
+There are regular flights to Inverness airport from Edinburgh, London, Bristol, Manchester, Birmingham, Amsterdam. For people travelling from abroad the most convenient route is usually via Amsterdam.
+
+Airlines that fly to Inverness include:
 
 * From London Gatwick - British Airways
 
-* From London and Bristol - Easyjet
+* From London Luton and Bristol - Easyjet
 
 * From East Midlands - Ryanair
 
 * From Belfast, Edinburgh, London, Manchester and a number of other inland and European destinations - Flybe
 
-* For travel from across Highlands ans Islands and other travel details visit Inverness Airport website
+There are car hire facilities at the airport, and a regular bus service into Inverness city centre.
 
-If you arrive by air and would like us to arrange transportation to take you to Coul House Hotel, please let us know in advance.
+For more information see the airport website: [Inverness airport](http://www.hial.co.uk:8000/inverness-airport/)
 
-##By rail
-* Scotrail
+If you arrive by air and would like us to help arrange transportation to take you to Coul House Hotel, please let us know in advance.
 
-* National Rail
+## Rail
+You can get a train direct to Inverness all the way from London. There is a daytime service leaving Kings X at around midday, and an overnight sleeper service from Euston.
 
-Other helpful sites to have a look at include Raileasy and Trainline.
+Within Scotland it's about 3-4 hours train journey from Edinburgh or Glasgow
 
-##By bus
-* National Express
+Check specific times and fares at [National Rail](http://www.nationalrail.co.uk/).
 
-* Scottish Citylink
+## Car (Directions approaching from the south)
 
-* Local Seervice (Inverness – Contin and other travel around the Highlands) –    Stagecoach
+If you are driving to Coul House then use the postcode IV14 9ES for sat-nav directions.
 
-* Megabus
- 
-##By car (Directions approaching from the south)
+More detailed driving instructions from Inverness (taken from the Coul House website):
 
-* Hotel postcode for those using GPS is IV14 9ES. 
+* From Inverness follow the A9 north over the Kessock Bridge
 
-* For everyone else:
+* At the Tore roundabout take the second left (sign-posted Dingwall and Ullapool A835)
 
-From Inverness follow the A9 north over the Kessock Bridge
+* At the next roundabout again take the second left to stay on the A835 (sign-posted to Ullapool)
 
-At the Tore roundabout take the second left (sign-posted Dingwall and Ullapool A835)
+* The next village is Contin, about 6 miles from the roundabout
 
-At the next roundabout again take the second left to stay on the A835 (sign-posted to Ullapool)
+* Once in Contin, the entrance to our driveway is the third right (approximately 200 yards) after the petrol station. If you pass the one and only village shop you have gone too far!
 
-The next village is Contin, about 6 miles from the roundabout
+* The hotel is located up the hill at the end of the half-mile gravel driveway. Please do not be put off by the potholes and ruts that appear occasionally throughout the year after heavy rain. Unfortunately, the driveway is a constant source of maintenance, which we do our best to keep up with.
 
-Once in Contin, the entrance to our driveway is the third right (approximately 200 yards) after the petrol station. If you pass the one and only village shop you have gone too far!
 
-The hotel is located up the hill at the end of the half-mile gravel driveway. Please do not be put off by the potholes and ruts that appear occasionally throughout the year after heavy rain. Unfortunately, the driveway is a constant source of maintenance, which we do our best to keep up with.
+## Accommodation
 
-----
-
-#Accommodation
-
-The most convenient place to stay is Coul House Hotel itself.
-
-We have negotiated with the hotel and for both Friday and Saturday night we will have the exclusive right to use the entire place.
-
-###Price per Night for the rooms:
-
-Single: £90 (2 rm) or £95 (1 rm)
-
-Double: £165 (3 rm), £180 (3 rm), or £185 (1 rm)
-
-Up to 3 people: £185 (3 rm) or £200 (3 rm)
-
-Up to 4-5 people: £185 (1 rm) or £200 (3 rm)
-
-• Call or write to the Coul House Hotel to make a reservation (Remember to mention that you will be attending our wedding).
-
-W: [Coul House Hotel](http://www.coulhousehotel.com/index.asp)
-
-T: +44 (0)1997 421 487
-
-E: [stay@coulhousehotel.com](mailto:stay@coulhousehotel.com)
-
+See the [accommodation page](/accommodation).

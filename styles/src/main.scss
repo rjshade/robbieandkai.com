@@ -60,6 +60,9 @@ html,body
   font-size: 62.5%;
 }
 
+ol, ul {
+  list-style: disc; }
+
 .pagewidth
 {
   margin: 0px auto;
@@ -344,31 +347,7 @@ blockquote {
 
 
 
-/* ----------------- FOOTER ------------------------ */
-#footer
-{
-  text-align: center;
-  border-top: 1px solid $v_light_grey;
-
-  color: $light_grey;
-  padding-top:10px;
-}
-
-#footer a 
-{
-  color:$light_grey;
-}
-
-#footer a:hover
-{
-  color: $orange;
-}
-
-
-
 /* ------------- PAGE SPECIFIC STYLES ------------- */
-
-
 #frontpage img
 {
   /*width: 700px;*/

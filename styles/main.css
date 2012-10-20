@@ -46,6 +46,9 @@ html, body {
   padding: 0px;
   font-size: 62.5%; }
 
+ol, ul {
+  list-style: disc; }
+
 .pagewidth {
   margin: 0px auto;
   clear: both; }
@@ -251,19 +254,6 @@ blockquote {
   border: none;
   margin-left: auto;
   margin-right: auto; }
-
-/* ----------------- FOOTER ------------------------ */
-#footer {
-  text-align: center;
-  border-top: 1px solid #e4e4e4;
-  color: #aeaeae;
-  padding-top: 10px; }
-
-#footer a {
-  color: #aeaeae; }
-
-#footer a:hover {
-  color: #f08c26; }
 
 /* ------------- PAGE SPECIFIC STYLES ------------- */
 #frontpage img {
