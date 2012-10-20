@@ -3,68 +3,67 @@ layout: default
 title: directions
 ---
 
-*Address: Coul House Hotel, Contin, Ross & Cromarty, Scotland IV14 9ES*
+* Address: Coul House Hotel, Contin, Ross & Cromarty, Scotland IV14 9ES
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;ll=57.55711,-4.310432&amp;spn=0.029354,0.523794&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;ll=57.55711,-4.310432&amp;spn=0.029354,0.523794&amp;source=embed" style="color:#0000FF;text-align:left">Robbie and Kai's wedding map</a> in a larger map</small>
-
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=57.585087,-4.476929&amp;spn=0.353352,0.878906&amp;z=10&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=57.585087,-4.476929&amp;spn=0.353352,0.878906&amp;z=10" style="color:#0000FF;text-align:left">Robbie and Kai's wedding map</a> in a larger map</small>
 ----
 
 #How long it will take you from .....
 
-• Inverness airport - 45 min/ 26 miles
+* Inverness airport - 45 min/ 26 miles
 
-• Inverness city - 30 mins by car/ 50 mins by bus/ 19 miles
+* Inverness city - 30 mins by car/ 50 mins by bus/ 19 miles
 
-• Perth 2hrs 50 mins/ 130 miles
+* Perth 2hrs 50 mins/ 130 miles
 
-• Aberdeen 2 hrs 45 mins/ 120 miles
+* Aberdeen 2 hrs 45 mins/ 120 miles
 
-• Glasgow - 3 hrs 45 mins/ 186 miles
+* Glasgow - 3 hrs 45 mins/ 186 miles
 
-• Edinburgh Airport - 3 hrs 30 mins/ 170 miles
+* Edinburgh Airport - 3 hrs 30 mins/ 170 miles
 
-• London - 10 hrs 45 mins/ 580 miles
+* London - 10 hrs 45 mins/ 580 miles
 
 ----
 
 #Getting here
 
 ##By air
-• From Dublin - Aer Arann
+* From Dublin - Aer Arann
 
-• From London Gatwick - British Airways
+* From London Gatwick - British Airways
 
-• From London and Bristol - Easyjet
+* From London and Bristol - Easyjet
 
-• From East Midlands - Ryanair
+* From East Midlands - Ryanair
 
-• From Belfast, Edinburgh, London, Manchester and a number of other inland and European destinations - Flybe
+* From Belfast, Edinburgh, London, Manchester and a number of other inland and European destinations - Flybe
 
-• For travel from across Highlands ans Islands and other travel details visit Inverness Airport website
+* For travel from across Highlands ans Islands and other travel details visit Inverness Airport website
 
 If you arrive by air and would like us to arrange transportation to take you to Coul House Hotel, please let us know in advance.
 
 ##By rail
-• Scotrail
+* Scotrail
 
-• National Rail
+* National Rail
 
 Other helpful sites to have a look at include Raileasy and Trainline.
 
 ##By bus
-• National Express
+* National Express
 
-• Scottish Citylink
+* Scottish Citylink
 
-• Local Seervice (Inverness – Contin and other travel around the Highlands) –    Stagecoach
+* Local Seervice (Inverness – Contin and other travel around the Highlands) –    Stagecoach
 
-• Megabus
+* Megabus
  
 ##By car (Directions approaching from the south)
 
-• Hotel postcode for those using GPS is IV14 9ES. 
+* Hotel postcode for those using GPS is IV14 9ES. 
 
-• For everyone else:
+* For everyone else:
 
 From Inverness follow the A9 north over the Kessock Bridge
 
@@ -98,7 +97,9 @@ Up to 4-5 people: £185 (1 rm) or £200 (3 rm)
 
 • Call or write to the Coul House Hotel to make a reservation (Remember to mention that you will be attending our wedding).
 
-T: +44(0) 1997 421 487
+W: [Coul House Hotel](http://www.coulhousehotel.com/index.asp)
 
-E: stay@coulhousehotel.com
+T: +44 (0)1997 421 487
+
+E: [stay@coulhousehotel.com](mailto:stay@coulhousehotel.com)
 
