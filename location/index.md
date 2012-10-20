@@ -3,26 +3,25 @@ layout: default
 title: directions
 ---
 
-<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=57.585087,-4.476929&amp;spn=0.353352,0.878906&amp;z=10&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=57.585087,-4.476929&amp;spn=0.353352,0.878906&amp;z=10" style="color:#0000FF;text-align:left">Robbie and Kai's wedding map</a> in a larger map</small>
-
-The wedding will take place in Coul House Hotel, Contin, Scotland. This is approximately 45 minutes drive from Inverness train station or airport. This page gives some information about various ways to get here.
-
-----
-
 #Getting here
+
+<div class='gmaps'>
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=57.585087,-4.476929&amp;spn=0.353352,0.878906&amp;z=10&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=57.585087,-4.476929&amp;spn=0.353352,0.878906&amp;z=10" style="color:#0000FF;text-align:left">Robbie and Kai's wedding map</a> in a larger map</small>
+</div>
+
+The wedding will take place in [Coul House Hotel](http://www.coulhousehotel.co.uk/), Contin, Scotland. This is approximately 45 minutes drive from Inverness train station or airport. This page gives some information about various ways to get here.
+
 
 ## Air
 There are regular flights to Inverness airport from Edinburgh, London, Bristol, Manchester, Birmingham, Amsterdam. For people travelling from abroad the most convenient route is usually via Amsterdam.
 
 Airlines that fly to Inverness include:
 
-* From London Gatwick - British Airways
+* From London Gatwick: [British Airways](http://www.ba.com/)
 
-* From London Luton and Bristol - Easyjet
+* From London Luton and Bristol: [Easyjet](http://www.easyjet.com/)
 
-* From East Midlands - Ryanair
-
-* From Belfast, Edinburgh, London, Manchester and a number of other inland and European destinations - Flybe
+* From Belfast, Edinburgh, London, Manchester: [Flybe](http://www.flybe.com/)
 
 There are car hire facilities at the airport, and a regular bus service into Inverness city centre.
 

@@ -133,7 +133,7 @@ ul.menu li {
 
 hr {
   border: none;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #efefef;
   margin-top: 20px;
   margin-bottom: 20px; }
 
@@ -161,10 +161,16 @@ blockquote {
   padding-top: 5px;
   padding-bottom: 10px; }
 
+#content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
+  margin-top: 0.5em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.7em; }
 #content h1 {
-  font-size: 2em; }
+  font-size: 2em;
+  border-bottom: 1px solid #efefef; }
 #content h2 {
-  font-size: 1.5em; }
+  font-size: 1.5em;
+  border-bottom: 1px solid #efefef; }
 #content h3 {
   font-size: 1.3em; }
 #content h4 {
@@ -175,7 +181,7 @@ blockquote {
   font-size: 1.0em; }
 
 #content a {
-  color: #33a;
+  color: #33f;
   text-decoration: none;
   /*border-bottom: 1px dashed $orange;*/ }
 
@@ -264,3 +270,13 @@ strong {
 
 em {
   font-weight: bold; }
+
+.gmaps {
+  width: 640px;
+  margin: auto;
+  border: 1px solid #ccc;
+  font-size: 0.8em;
+  margin-bottom: 20px;
+  -moz-box-shadow: 0px 0px 5px #ccc;
+  -webkit-box-shadow: 0px 0px 5px #ccc;
+  box-shadow: 0px 0px 5px #ccc; }
