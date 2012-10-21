@@ -11,7 +11,7 @@ title: directions
 
 The wedding will take place in [Coul House Hotel](http://www.coulhousehotel.co.uk/), Contin, Scotland. This is approximately 45 minutes drive from Inverness train station or airport. This page gives some information about various ways to get here.
 
-**Note: for the air or rail passengers, we would like to make your travel as easy and smooth as possible so let us know your arrival time in Inverness in advance so we will be able to help you with transport arrangement to Coul House Hotel**
+**Note: for the air or rail passengers, we would like to make your travel as easy and smooth as possible. Please let us know your arrival time in Inverness in advance so we will be able to help you with transport arrangement to Coul House Hotel**
 
 
 ## Air
