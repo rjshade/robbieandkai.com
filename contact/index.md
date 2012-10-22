@@ -14,7 +14,8 @@ This is the best way to contact us.
 
 ## Phone
 
-Phone is not so great given that we are in the USA and so harder to find a good time to call, and more expensive! However here are our numbers in case:
+Phone is not so great given that we are in the USA and so harder to find a good time to call, and more expensive! 
+However, here are our numbers in case:
 
 * Robbie: +1 857-719-6343
 
