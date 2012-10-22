@@ -13,8 +13,7 @@ of Friday 5th.
 
 The day before wedding.
 
-For those of you who would like to join us for dinner before our big day, there will be a BBQ in the hotel grounds (or indoors if the weather is unkind).
-It's expected to cost around £10-£15 a head.
+For those of you who would like to join us for dinner before our big day, there will be a complimentary BBQ (please [RSVP](/rsvp)) in the hotel grounds (or indoors if the weather is unkind).
 
 * all day: guests arrive
 * evening: BBQ in hotel grounds
