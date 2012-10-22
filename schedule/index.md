@@ -3,13 +3,14 @@ layout: default
 title: schedule
 ---
 
+# Schedule
+
 The wedding itself will take place on *Saturday 6th July 2013*. However most
 people will be arriving the night before so this schedule will cover the night
 of Friday 5th as well.
 
 
-*Friday 5th July, 2013*
-=======================
+## Friday 5th July, 2013
 
 The day before wedding.
 
@@ -19,8 +20,7 @@ It's expected to cost around £10-£15 a head.
 * all day: guests arrive
 * evening: BBQ in hotel grounds
 
-*Saturday 6th July, 2013*
-=========================
+## Saturday 6th July, 2013
 
 Wedding day. This is a rough schedule which is subject to alteration and will only be finalised much closer to the date.
 

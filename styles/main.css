@@ -49,6 +49,9 @@ html, body {
 ol, ul {
   list-style: disc; }
 
+ul {
+  margin-bottom: 20px; }
+
 .pagewidth {
   margin: 0px auto;
   clear: both; }
@@ -162,10 +165,12 @@ blockquote {
   padding-bottom: 10px; }
 
 #content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
+  padding-top: 0.5em;
   margin-top: 0.5em;
   margin-bottom: 0.8em;
   padding-bottom: 0.7em; }
 #content h1 {
+  padding-top: 0em;
   font-size: 2em;
   border-bottom: 1px solid #efefef; }
 #content h2 {

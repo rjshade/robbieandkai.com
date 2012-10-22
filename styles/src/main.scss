@@ -63,6 +63,10 @@ html,body
 ol, ul {
   list-style: disc; }
 
+ul {
+  margin-bottom: 20px;
+}
+
 .pagewidth
 {
   margin: 0px auto;
@@ -214,11 +218,13 @@ blockquote {
 
 #content {
   h1,h2,h3,h4,h5,h6 {
+    padding-top: 0.5em;
     margin-top: 0.5em;
     margin-bottom: 0.8em;
     padding-bottom: 0.7em;
   }
   h1 {
+    padding-top: 0em;
     font-size: 2em;
     border-bottom: 1px solid #efefef;
   }
