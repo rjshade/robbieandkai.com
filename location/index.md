@@ -11,6 +11,8 @@ title: directions
 
 The wedding will take place in [Coul House Hotel](http://www.coulhousehotel.co.uk/), Contin, Scotland. This is approximately 45 minutes drive from Inverness train station or airport. This page gives some information about various ways to get here.
 
+**Note: for the air or rail passengers, we would like to make your travel as easy and smooth as possible. Please let us know your arrival time in Inverness in advance and we will be able to help you with transport arrangement to Coul House Hotel.**
+
 
 ## Air
 There are regular flights to Inverness airport from Edinburgh, London, Bristol, Manchester, Birmingham, Amsterdam. For people travelling from abroad the most convenient route is usually via Amsterdam.
@@ -26,8 +28,6 @@ Airlines that fly to Inverness include:
 There are car hire facilities at the airport, and a regular bus service into Inverness city centre.
 
 For more information see the airport website: [Inverness airport](http://www.hial.co.uk:8000/inverness-airport/)
-
-If you arrive by air and would like us to help arrange transportation to take you to Coul House Hotel, please let us know in advance.
 
 ## Rail
 You can get a train direct to Inverness all the way from London. There is a daytime service leaving Kings X at around midday, and an overnight sleeper service from Euston.

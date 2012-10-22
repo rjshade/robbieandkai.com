@@ -5,8 +5,8 @@ title: accommodation
 
 #Accommodation
 
-The most convenient place to stay is Coul House Hotel itself, where the wedding will take place. 
-We have exclusive access to the hotel for the nights of Friday 5th July and Saturday 6th July 2013.
+The most convenient place to stay is **Coul House Hotel** itself, where the wedding will take place. 
+We have exclusive access to the hotel for the nights of Friday 5th July and Saturday 6th July 2013. 
 
 The address is:
 [Coul House Hotel, Contin, Scotland, IV14 9ES (click to view map)](https://maps.google.co.uk/maps/ms?msa=0&amp;msid=216947055802982788673.0004c80143f8399bd2190&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=57.585087,-4.476929&amp;spn=0.353352,0.878906&amp;z=10)
@@ -16,7 +16,7 @@ The address is:
 
 Please contact the hotel directly to book a room. They have single rooms, twin rooms, double rooms, and can accommodate groups of 3 or 4 who are willing to share a room (e.g. a family room can be converted into four single beds).
 
-Remember to mention that you will be attending our wedding when making a booking:
+Remember to mention that you will be attending our wedding when making a booking as we have arranged a deal with the hotel:
 
 Website: [Coul House Hotel](http://www.coulhousehotel.com/index.asp)
 
