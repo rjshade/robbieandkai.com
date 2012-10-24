@@ -32,5 +32,5 @@ For those guests staying in the hotel, breakfast will be served at 10 am.
 * 18:00  Break
 * 20:00  Celidh Band
 * 22:00  Break with refreshments
-* 20:00  Celidh Band 
+* 22:30  Celidh Band 
 * 01:00  Finish!
