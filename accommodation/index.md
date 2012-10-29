@@ -16,6 +16,8 @@ The address is:
 
 Please contact the hotel directly to book a room. They have single rooms, twin rooms, double rooms, and can accommodate groups of 3 or 4 who are willing to share a room (e.g. a family room can be converted into four single beds).
 
+As there are only 21 rooms available, priorities will be given to guests who are planning to lodge on both Friday and Saturday nights.
+
 Remember to mention that you will be attending our wedding when making a booking as we have arranged a deal with the hotel:
 
 Website: [Coul House Hotel](http://www.coulhousehotel.com/index.asp)
