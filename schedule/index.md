@@ -26,7 +26,7 @@ Wedding day. This is a rough schedule which is subject to alteration and will on
 For those guests staying in the hotel, breakfast will be served at 10 am.
 
 * 12:00  Arrival of guests
-* 13:30  Ceremony
+* 13:00  Ceremony
 * 14:00  Photography
 * 15:30  Meal
 * 18:00  Break
