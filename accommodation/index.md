@@ -23,7 +23,7 @@ Remember to mention that you will be attending our wedding when making a booking
 * **Double rooms** £150 per night
 * **Single rooms** £75 per night
 
-As mentioned there are some rooms that can accommodate 3 or 4 people, and the prices will be the same as above (£150/night).
+As mentioned there are some rooms that can accommodate 3 or 4 people. These will be charged at £180 per night.
 
 Website: [Coul House Hotel](http://www.coulhousehotel.com/index.asp)
 
