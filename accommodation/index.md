@@ -20,12 +20,10 @@ As there are only 21 rooms available, priorities will be given to guests who are
 
 Remember to mention that you will be attending our wedding when making a booking as we have arranged a deal with the hotel:
 
-* **Large Twin/King rooms** £210 per night (for 4 pp)
-* **Small Twin/King rooms** £180 per night (for 3 pp in King rooms or 2 pp in twin rooms)
-* **Double rooms** £150 per night
+* **Double or twin rooms** £150 per night
 * **Single rooms** £75 per night
 
-As mentioned there are some rooms that can accommodate 3 or 4 people. These will be charged at £180 (for 3 pp or for 2 people in twin rooms) or £210 (for 4 pp) per night.
+As mentioned there are some rooms that can accommodate 3 or 4 people. These will be charged at £180 (for 3 pp) or £210 (for 4 pp) per night.
 
 Website: [Coul House Hotel](http://www.coulhousehotel.com/index.asp)
 
