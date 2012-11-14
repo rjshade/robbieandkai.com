@@ -14,6 +14,8 @@ The address is:
 
 ## Booking a room at Coul House Hotel
 
+**Important:** You must phone the hotel directly to book a room. We have exclusive use for the weekend of our wedding so external booking sites (such as booking.com) will show no availability.
+
 Please contact the hotel directly to book a room. They have single rooms, twin rooms, double rooms, and can accommodate groups of 3 or 4 who are willing to share a room (e.g. a family room can be converted into four single beds).
 
 As there are only 21 rooms available, priorities will be given to guests who are planning to lodge on both Friday and Saturday nights.
