@@ -8,9 +8,9 @@ title: contact
 If you have any questions about travel, accommodation, sightseeing while in Scotland, or anything else wedding related, we're happy to help!
 
 ## Email
-This is the best way to contact us.
-
-* email: [hello@robbieandkai.com](mailto:hello@robbieandkai.com)
+The best way to contact us is by email:
+* Robbie: [robbie.shade@gmail.com](mailto:robbie.shade@gmail.com)
+* Kai: [ikayabi@gmail.com](maito:ikayabi@gmail.com)
 
 ## Phone
 
