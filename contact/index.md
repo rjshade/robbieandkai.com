@@ -10,7 +10,7 @@ If you have any questions about travel, accommodation, sightseeing while in Scot
 ## Email
 The best way to contact us is by email:
 * Robbie: [robbie.shade@gmail.com](mailto:robbie.shade@gmail.com)
-* Kai: [ikayabi@gmail.com](maito:ikayabi@gmail.com)
+* Kai: [ikayabi@gmail.com](mailto:ikayabi@gmail.com)
 
 ## Phone
 
