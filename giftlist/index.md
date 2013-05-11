@@ -5,4 +5,4 @@ title: gift list
 
 # Gift list
 
-Coming soon... once you have [rsvp-ed](/rsvp) we will contact you by email when we have created a gift list.
+Our gift list is available here: [weddingrepublic.com/robbieandkai](https://weddingrepublic.com/robbieandkai)
